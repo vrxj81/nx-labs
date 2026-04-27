@@ -36,11 +36,6 @@
             "input": "./packages/php",
             "glob": "generators.json",
             "output": "."
-          },
-          {
-            "input": "./packages/php",
-            "glob": "executors.json",
-            "output": "."
           }
         ]
       }
